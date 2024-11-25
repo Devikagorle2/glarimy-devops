@@ -1,2 +1,2 @@
 # glarimy-devops
-A sample java project to demonstrate DevOps
+Hello My name is Devika.
